@@ -1,4 +1,4 @@
-# Smile detector by --- Dhruv Tongia
+# Smile and eyes detector by --- Dhruv Tongia
 
 # Importing the libraries
 import cv2
