@@ -1,4 +1,4 @@
-# Homework Solution
+# Smile detector by --- Dhruv Tongia
 
 # Importing the libraries
 import cv2
