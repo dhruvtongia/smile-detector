@@ -11,7 +11,7 @@ Used the OpenCV library to take real-time video from web cam and tried to draw a
 
 I also experimented with the different values of follwing two parameters of detectMultiScale()  :
 1. <strong>minNeighbors</strong> – Parameter specifying how many neighbors each candidate rectangle should have to retain it.
-2. <strong>scaleFactor</strong> – Parameter specifying how much the image size is reduced at each image scale.
+2. <strong>scaleFactor</strong> – Parameter specifying how much the image size is reduced at each image scale.<br>
       for each of the haarcascades and found the most optimal ones.
     
 
